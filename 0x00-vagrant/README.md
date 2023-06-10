@@ -1,4 +1,1 @@
-* Linux
-* Linux
-- Ubunto
-- Ubunto
+Linux
