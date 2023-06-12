@@ -1,1 +1,4 @@
-:Linux
+* Ubunto ssh
+* uname
+- Linux
+- linux
